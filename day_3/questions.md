@@ -14,9 +14,11 @@
 
 1. What is the Ruby syntax for an if statement?
 
-  - If this is true
-    - puts this
-  - End  
+```
+if this is true
+  puts this
+end  
+```
 
 1. How do you add multiple conditions to an if statement?
 
@@ -25,13 +27,15 @@
 
 1. What is the Ruby syntax for an if/elsif/else statement?
 
-  - If this is true
-    - puts this
-  - elsif the statement above was false, but this is true
-    - puts this
-  - else if neither of the above are true
-    - puts this
-  - end  
+```
+if this is true
+   puts this
+elsif the statement above was false, but this is true
+   puts this
+else if neither of the above are true
+   puts this
+end  
+```
 
 1. Other than an if-statement, can you think of any other ways we might want to use a conditional statement?
 
